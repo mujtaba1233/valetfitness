@@ -1,0 +1,102 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+#inp-1 {
+  border: 1px solid aqua;
+  padding: 5px;
+  border-radius: 20px;
+}
+
+.section-2 {
+  background-image: url("../Images/Group\ 14165.png");
+  height: 400px;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  color: white;
+}
+.section-3 {
+  background-color: rgb(236, 234, 234);
+}
+.section-5 {
+  background-color: #f1f2f6;
+}
+
+.section-7 {
+  background-image: url("../Images/6.png");
+  height: 400px;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  color: white;
+}
+
+.slider i {
+  color: #f9ca24;
+}
+
+.section-9 {
+  background-image: url("../Images/Group\ 14168.png");
+  height: 400px;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  color: white;
+}
+
+.section-9 .input-group input {
+  background-color: transparent;
+  border: none;
+}
+.section-9 .input-group input::placeholder {
+  color: white;
+}
+.section-9 .input-group button {
+  background-color: aqua;
+  border: none;
+}
+.section-9 .input-group {
+  background-color: rgba(255, 255, 255, 0.5);
+
+  width: 400px;
+}
+.footer .pages a,
+.social-links a,
+.services a {
+  text-decoration: none;
+  color: #f1f2f6;
+}
+
+.footer .pages a,
+.social-links a,
+.services a:hover {
+  color: white;
+}
+
+.footer img {
+  width: 300px;
+}
+
+.nav-content nav .navbar-brand {
+  width: 200px;
+}
+.slider .carousel .carousel-inner .carousel-item .card {
+  height: 500px;
+  max-width: 350px;
+}
+.slider .carousel .carousel-inner .carousel-item .card:hover {
+  border: 1px solid blue;
+  box-shadow: black;
+}
+
+.slider .carousel .carousel-inner .carousel-item .btn {
+  border-top: 1px solid black;
+  font-size: 20px;
+}
+
+.slider .carousel .carousel-inner .carousel-item .btn:hover {
+  border: none;
+  width: 100%;
+  background-color: blue;
+  color: white;
+}
